@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "com.ahmetcavusoglu.swaggerspringboot.config.ConfigProperties",
+      "sourceType": "com.ahmetcavusoglu.swaggerspringboot.config.ConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.ahmetcavusoglu.swaggerspringboot.config.ConfigProperties"
+    },
+    {
+      "name": "spring.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "com.ahmetcavusoglu.swaggerspringboot.config.ConfigProperties"
+    },
+    {
+      "name": "spring.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "com.ahmetcavusoglu.swaggerspringboot.config.ConfigProperties"
+    },
+    {
+      "name": "spring.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "com.ahmetcavusoglu.swaggerspringboot.config.ConfigProperties"
+    }
+  ],
+  "hints": []
+}
